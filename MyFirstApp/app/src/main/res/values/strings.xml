@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_world_text">WelcomeKotlin</string>
+    <string name="clear">CLEAR</string>
+    <string name="increase">INCREASE</string>
+    <string name="random">RANDOM</string>
+    <string name="zero_text">0</string>
+</resources>
